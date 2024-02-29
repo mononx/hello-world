@@ -1,3 +1,4 @@
 # hello-world
 This repository is for practising the GitHub Flow.
-This is the "feature" branch.
+This is the "feature" branch
+I am Eric.
